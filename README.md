@@ -1,10 +1,8 @@
 # Assignment9
 Assignment 9
 
-
-that includes a brief writeup about your experiment. Include the following details:
-
 Which Honeypot(s) you deployed
+
 
 Any issues you encountered
 
